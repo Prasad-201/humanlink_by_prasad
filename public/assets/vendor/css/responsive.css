@@ -1,0 +1,130 @@
+@media only screen and (max-width: 768px) {
+    .sign-up-page .signup-left-side-image {
+        width: 100% !important;
+    }
+
+    .simple-box-wrap ul.simple-step li {
+        width: 50%;
+    }
+
+    .total-contractual-box {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .profile-container {
+        padding: 51px 31px 55px 33px;
+    }
+
+    .slick-dots li button:before {
+        font-size: 12px;
+    }
+
+    .pos-relative .average-rating-survey {
+        top: 0;
+    }
+
+    .talent-page-heading .main-heading {
+        font-size: 25px;
+    }
+
+    .talent-page-heading {
+        padding-top: 65px;
+    }
+}
+
+@media only screen and (max-width: 426px) {
+
+    .welcome-at-talent-uplers {
+        flex-direction: column;
+    }
+
+    .simple-box-wrap ul.simple-step {
+        padding-left: 0;
+    }
+
+    .simple-steps-Item .simple-steps-icon {
+        text-align: center;
+    }
+
+    .trusted-leading-brand .trustedLogo {
+        justify-content: center;
+    }
+
+    .profile-Head .overview {
+        flex-direction: column;
+        -ms-flex-direction: column;
+    }
+
+    .profile-Head .overview {
+        padding: 0px 0 52px;
+    }
+
+    .profile-Head .overview .content {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .profile-Accordion label {
+        display: block;
+    }
+
+    .form-group .edit-box {
+        margin-bottom: 5px;
+    }
+
+    .slick-dots li button:before {
+        font-size: 9px;
+    }
+
+    .total-contractual-wrap ul {
+        padding-left: 0;
+    }
+
+    .total-contractual-wrap ul li {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .trusted-leading-brand .trustedLogo img {
+        margin-bottom: 30px;
+    }
+}
+
+@media only screen and (max-width: 376px) {
+    .simple-box-wrap ul.simple-step li {
+        width: 100%;
+    }
+}
+
+
+/* Employer Module */
+@media only screen and (max-width: 768px) {
+    .actionListing .actionBox .actionDetail .actionInfo .intinfo {
+        width: 100%;
+    }
+
+    .heading .common-btn {
+        margin-bottom: 3px;
+    }
+}
+
+@media only screen and (max-width: 426px) {
+
+    .containSection,
+    .contain-section {
+        padding: 0;
+    }
+
+    .heading .common-btn {
+        margin-bottom: 3px;
+    }
+
+    .talent-listing .talent-box .box-head .right-box {
+        text-align: right;
+    }
+
+    .contain-section .form-step-process ul {
+        padding: 0;
+    }
+}

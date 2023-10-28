@@ -1,0 +1,194 @@
+.blog-page-element .blog-header-element .blog-name-element {
+    display: block;
+}
+
+.blog-page-element .blog-header-element .blog-name-element .blog-profile-name {
+    display: block;
+    color: #286280;
+    font-size: 72px;
+    font-weight: 800;
+    line-height: 90px;
+}
+
+.blog-page-element .blog-button-element {
+    display: block;
+    padding: 20px 0;
+}
+
+.blog-page-element .blog-button-element .btn {
+    width: 75px;
+    height: 30px;
+    border-radius: 8px;
+    display: inline-block;
+    opacity: 1;
+    font-size: 32px;
+    box-shadow: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 0 4px;
+    vertical-align: middle;
+    background-repeat: repeat;
+    overflow: hidden;
+    cursor: pointer;
+    box-sizing: content-box;
+    padding: 0 !important;
+    list-style: none !important;
+    border: none !important;
+    margin: 2px;
+}
+
+.blog-page-element .blog-button-element .btn:first-child {
+    margin-left: 0;
+}
+
+.blog-page-element .blog-button-element .btn i {
+    color: #fff;
+}
+
+.blog-page-element .blog-button-element .btn.btn-facebook {
+    background-color: #3c589a;
+}
+
+.blog-page-element .blog-button-element .btn.btn-twitter {
+    background-color: #55acee;
+}
+
+.blog-page-element .blog-button-element .btn.btn-linkedin {
+    background-color: #0077b5;
+}
+
+.blog-page-element .blog-button-element .btn.btn-pinterest {
+    background-color: #cc2329;
+}
+
+.blog-page-element .blog-button-element .btn.btn-whatsapp {
+    background-color: #55eb4c;
+}
+
+.blog-page-element .blog-button-element .btn.btn-link {
+    background-color: #ffc112;
+}
+
+.blog-page-element .blog-button-element .btn.btn-plus {
+    background-color: #ee8e2d;
+}
+
+.blog-page-element .blog-header-element .blog-profile-image {
+    margin: 0 0 1em;
+}
+
+.blog-page-element .blog-header-element .blog-profile-image .img-fluid {
+    height: auto;
+    max-width: 100%;
+    vertical-align: bottom;
+    box-sizing: border-box;
+}
+
+.blog-page-element .blog-text {
+    margin-top: 0;
+    margin-bottom: .9rem;
+    color: #697C9A;
+    font-family: 'inter', Sans-serif;
+    font-size: 15px;
+    text-align: justify;
+}
+
+.blog-page-element .blog-element-heading-one {
+    color: #286280;
+    font-size: 2em;
+    font-family: 'inter', Sans-serif;
+    font-weight: 600;
+}
+
+.blog-page-element .blog-element-heading-two {
+    color: #286280;
+    font-family: 'inter', Sans-serif;
+    font-size: 1.75rem;
+}
+
+.blog-page-element .blog-element-heading-three {
+    color: #286280;
+    font-size: 1.50rem;
+    font-family: 'inter', Sans-serif;
+}
+
+.blog-page-element .blog-link {
+    color: #286280;
+    font-family: 'inter', Sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.post-comment-form .form-group label {
+    display: inline-block;
+    line-height: 1;
+    vertical-align: middle;
+    margin-bottom: .5rem;
+    color: #697c9a;
+    font-family: inter, Sans-serif;
+    font-size: 17px;
+}
+
+.post-comment-form .form-group .form-control {
+    border-color: #000;
+}
+
+.post-comment-form .form-group textarea.form-control {
+    height: 150px;
+}
+
+.post-comment-form .btn-post-comment {
+    color: #fff;
+    background-color: #286280;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    border-radius: 3px;
+}
+
+.post-comment-form .form-check-input:checked {
+    background-color: #286280;
+    border-color: #286280;
+}
+
+.blog-menu {
+    margin-bottom: 0;
+}
+
+.blog-menu .blog-list {
+    color: #697C9A;
+    font-family: 'inter', Sans-serif;
+    font-size: 15px;
+}
+
+.blog-page-element .blog-card-element {
+    margin: 3px 0;
+    flex: 1;
+}
+
+.blog-page-element .blog-card-element .blog-card-heading {
+    font-size: 18px !important;
+}
+
+.blog-page-element .blog-card-element .blog-card-text {
+    font-size: 15px !important;
+    margin-top: 10px !important;
+}
+
+.blog-element .blog-card-element .blog-card-body-element .read-more-btn {
+    padding: 10px 50px 10px 50px;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.blog-element .blog-card-element .blog-card-image-top-element .blog-card-category-tag a {
+    font-size: 15px;
+}
